@@ -5,7 +5,7 @@ namespace clase139.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ControllerInt2 : ControllerBase
+    public class ControllerInt1 : ControllerBase
     {
         //comentario
     }
